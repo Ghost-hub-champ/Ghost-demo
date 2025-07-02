@@ -1,4 +1,4 @@
 # Ghost-demo
 this is my first repository.
 <br>
-author - lone shahid.
+author - lone shahid (Ghost)
